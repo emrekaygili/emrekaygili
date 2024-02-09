@@ -6,7 +6,6 @@
 
 - 🌱 I’m currently learning **Power BI , Nodejs , SQL , React**
 
-- 👨‍💻 All of my projects are available at [Emre Kaygılı](Emre Kaygılı)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
