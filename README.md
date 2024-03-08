@@ -1,5 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Emre Kaygılı</h1>
+<h1 al![lnarkaplan](https://github.com/emrekaygili/emrekaygili/assets/96821841/ff0cd232-6cad-4da1-b9ca-a45f32887608)
+ign="center">Hi 👋, I'm Emre Kaygılı</h1>
 <h3 align="center">A passionate full stack developer from Turkey</h3>
 
 - 🔭 I’m currently working on **Javascript**
