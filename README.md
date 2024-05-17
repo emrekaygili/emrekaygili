@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Javascript**
 
-- 🌱 I’m currently learning **Power BI , Nodejs, PHP , MYSQL , React**
+- 🌱 I’m currently learning **Power BI ,SAP , Nodejs, PHP , MYSQL , React**
 
 
 <h3 align="left">Connect with me:</h3>
