@@ -1,7 +1,7 @@
 ![lnarkaplan](https://github.com/emrekaygili/emrekaygili/assets/96821841/ff0cd232-6cad-4da1-b9ca-a45f32887608)
 <h3 align="center">A passionate full stack developer from Turkey</h3>
 
-- 🔭 I’m currently working on **Javascript**
+- 🔭 I’m currently working on **JAVA-ABAP-Javascript**
 
 - 🌱 I’m currently learning **JAVA, Power BI ,SAP ABAP , Nodejs, PHP , MYSQL , React**
 
